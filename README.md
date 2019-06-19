@@ -17,14 +17,10 @@ A list of Code Patterns broken down by industry and technology to aid in the dev
     - https://developer.ibm.com/patterns/predicting-the-stock-market-in-watson-studio/
 2. Create a global finance application using Blockchain
     - https://developer.ibm.com/patterns/global-financing-use-case-for-blockchain/
-3. Live news web app to monitor market changes
-    - https://developer.ibm.com/patterns/live-news-market-changes-financial-investments/
-4. Track charitable donations with Blockchain
-    - https://developer.ibm.com/patterns/track-donations-blockchain/
 
 ## Retail
 1. Business process automation using Blockchain
-    - https://developer.ibm.com/patterns/automate-business-processes-via-blockchain-events/
+    - https://developer.ibm.com/code/2018/02/01/blockchain-event-notifications-easy-way-automate-business-processes/
 2. Create a merchant site that utilizes the IBM Open Banking Platform
     - https://developer.ibm.com/patterns/develop-an-iot-asset-tracking-app-using-blockchain/
 3. Stream retail shopping data for analysis 
@@ -39,8 +35,22 @@ A list of Code Patterns broken down by industry and technology to aid in the dev
     - https://developer.ibm.com/patterns/tone-analyzer-for-ios/
 3. Using visual recognition in a mobile app with Watson Visual Recognition
     - https://developer.ibm.com/patterns/visual-recognition-for-ios/
-4. Telecom roaming, fraud, and overage management using Blockchain
-    - https://developer.ibm.com/patterns/blockchain-for-telecom-roaming-fraud-and-overage-management/
+    
+## Automotive
+1. Build a blockchain insurance app
+    - https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/
+2. Making sense of IoT data
+    - https://developer.ibm.com/tutorials/iot-lp301-iot-manage-data/
+3. Classify vehicle damage images
+    - https://developer.ibm.com/patterns/classify-vehicle-damage-images/
+    
+## Energy/Utilities
+1. Create a decentralized energy network with IBM Blockchain Platform
+    - https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/
+2. Get started developing IoT solutions by building a simple home automation system
+    - https://developer.ibm.com/tutorials/iot-lp101-get-started-develop-iot-home-automation/
+3. Setting up the hardware for a home automation system
+    - https://developer.ibm.com/tutorials/iot-smart-home-01/
     
 # Top Patterns by Technology
 ## IoT
