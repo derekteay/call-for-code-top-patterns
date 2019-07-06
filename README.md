@@ -43,7 +43,7 @@ A list of Code Patterns broken down by industry and technology to aid in the dev
 * ## Machine Learning/Deep Learning
 1. [Predict wildfire intensity using Watson Studio](https://developer.ibm.com/patterns/predict-wildfire-intensity/)
 1. [Continuous learning in the cloud using Watson Studio](https://developer.ibm.com/patterns/continuous-learning-with-wml-and-db2-warehouse-on-cloud/)
-1. [Increase accuracy of face detection with Tensorflow and Watson Visual Recognition(https://developer.ibm.com/patterns/augment-computer-vision-detection-of-blurred-faces-using-tensorflow/)
+1. [Increase accuracy of face detection with Tensorflow and Watson Visual Recognition](https://developer.ibm.com/patterns/augment-computer-vision-detection-of-blurred-faces-using-tensorflow/)
 1. [Create a web app that interacts with detected objects using Object Detector](https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-objects-detected-using-machine-learning/)
 
 * ## Blockchain
