@@ -1,5 +1,7 @@
-# Call for Code Top Code Patterns
-A list of Code Patterns broken down by industry and technology to aid in the development of applications for IBM Call for Code
+# Overview
+A list of top Code Patterns, broken down by industry and technology, to aid in the development of applications for the IBM Call for Code Global Challenge.
+
+_Updated 7/6/19_
 
 # Top Patterns by Industry
 * ## Healthcare
